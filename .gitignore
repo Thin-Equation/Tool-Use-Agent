@@ -1,0 +1,9 @@
+/.venv
+/.env
+/devserver.sh
+/checkpoints
+/src/__pycache__
+/src/agent/__pycache__
+/src/tools/__pycache__
+/.idx
+/__pycache__
