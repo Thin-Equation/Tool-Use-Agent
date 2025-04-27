@@ -1,0 +1,18 @@
+fastapi
+uvicorn
+pydantic
+langchain-core
+langchain
+langgraph
+langchain-google-genai
+python-dotenv
+pytest
+httpx
+python-multipart
+# Added packages for real tool implementations
+setuptools  # Added to fix pkg_resources dependency
+requests
+pyowm  # OpenWeatherMap client
+duckduckgo-search # Web search
+sympy # Enhanced calculator functionality
+wordnik-py3 # Dictionary API
